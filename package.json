@@ -23,7 +23,7 @@
     "mysql2": "^1.6.5",
     "reflect-metadata": "^0.1.13",
     "rxjs": "^6.5.2",
-    "sequelize": "4",
+    "sequelize": "5",
     "sequelize-typescript": "^0.6.11"
   },
   "devDependencies": {
